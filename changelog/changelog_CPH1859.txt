@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: ALPHA
+Device: Realme 1 (CPH1859/CPH1861)
+Device maintainer: JAISHNAVPRASAD
+Android Version: 11
+
+==== 2020-12-15 =====
+- Android R release
+- Initial OTA test for CipherOS
+
+==== 2020-12-15 =====
+- January security patch
+- ALPHA release
