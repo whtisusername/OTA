@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1609388382",
- "filename": "CipherOS-1.0-INFERNO-20210115-1638-CPH1859-OFFICIAL-ALPHA.zip",
+ "datetime": "2201212132",
+ "filename": "CipherOS-1.0-INFERNO-20210122-1158-CPH1859-OFFICIAL-ALPHA.zip",
  "id": "97d13897a2b343ef4f9e7bf367eec6b6",
- "romtype":"ALPHA",
+ "romtype":"BETA",
  "size": 749522003,
- "url": "https://phoenixnap.dl.sourceforge.net/project/cipheros/ALPHA/CipherOS-1.0-INFERNO-20210115-1638-CPH1859-OFFICIAL-ALPHA.zip",
+ "url": "https://cloud.cipheros.workers.dev/0:/Realme/CPH1859/CipherOS-1.0-INFERNO-20210122-1158-CPH1859-OFFICIAL-ALPHA.zip",
  "version": "1.0-INFERNO"
 }
 ]
