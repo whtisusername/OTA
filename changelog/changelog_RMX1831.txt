@@ -4,10 +4,9 @@ Device: Realme U1 (RMX1831)
 Device maintainer: JAISHNAVPRASAD
 Android Version: 11
 
-==== 2020-12-15 =====
-- Android R release
-- Initial OTA test for CipherOS
-
-==== 2020-12-15 =====
-- January security patch
-- BETA release
+==== 2021-01-24 =====
+- Initial build
+- January security patch [Sunfish fp]
+- Volte fixed
+- Fingerprint cleanup after reboot fixed
+- Hotspot fixed
