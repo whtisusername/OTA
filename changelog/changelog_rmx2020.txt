@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: Realme C3 (RMX2020)
+Device maintainer: Cipher CI
+Android Version: 11
+
+==== 2021-01-24 =====
+- Initial build
+- February security patch [Sunfish fp]
+- Volte Working
