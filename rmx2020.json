@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "2202210028",
- "filename": "CipherOS-1.0-INFERNO-20210222-1654-rmx2020-OFFICIAL-BETA.zip",
- "id": "6fa130ef9570e872345bd6cfeec33b11",
- "romtype":"BETA",
- "size": 754603053,
- "url": "https://ghostmirror.hitesh920.workers.dev/CipherOS-1.0-INFERNO-20210222-1654-rmx2020-OFFICIAL-BETA.zip",
- "version": "1.0-INFERNO"
+ "datetime": "1615204906",
+ "filename": "CipherOS-1.0-INFERNO-20210308-1202-rmx2020-OFFICIAL-BETA.zip",
+ "id": "b2c770c813d97b4538a62fb44f45c864",
+ "romtype":"BETA+1",
+ "size": 711983104,
+ "url": "https://direct.cipheros.workers.dev/Realme/RMX2020/CipherOS-1.0-INFERNO-20210308-1202-rmx2020-OFFICIAL-BETA.zip",
+ "version": "1.1-INFERNO"
 }
 ]
 }

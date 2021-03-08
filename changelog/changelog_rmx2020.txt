@@ -1,10 +1,17 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: BETA+1
 Device: Realme C3 (RMX2020)
-Device maintainer: Cipher CI
+Device maintainer: Sarthak Roy
 Android Version: 11
 
 ==== 2021-01-24 =====
-- Initial build
-- February security patch [Sunfish fp]
-- Volte Working
+-VoWifi Support Added
+-Volte more Stable
+-Gcam Go added by default (thanks to techyminati)
+-GApps flashing fixed
+-Video Lag fixed
+-Screen Recording lag fixed
+-Video Crashing fixed
+-Battery capacity fixed
+-Audio issues fixed
+-And many more
