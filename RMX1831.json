@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1611460028",
- "filename": "CipherOS-1.0-INFERNO-20210124-0347-RMX1831-OFFICIAL-ALPHA.zip",
- "id": "6fa130ef9570e872345bd6cfeec33b11",
- "romtype":"BETA",
+ "datetime": "1615455962",
+ "filename": "CipherOS-1.0-INFERNO-20210311-0948-RMX1831-OFFICIAL-BETA.zip",
+ "id": "500976af693dce077496ffd3b41375e4",
+ "romtype":"BETA+1",
  "size": 654603053,
- "url": "http://direct.cipheros.workers.dev/Realme/RMX1831/CipherOS-1.0-INFERNO-20210124-0347-RMX1831-OFFICIAL-ALPHA.zip",
- "version": "1.0-INFERNO"
+ "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.0-INFERNO-20210311-0948-RMX1831-OFFICIAL-BETA.zip",
+ "version": "1.1-INFERNO"
 }
 ]
 }

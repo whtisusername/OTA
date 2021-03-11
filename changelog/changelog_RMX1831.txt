@@ -1,12 +1,11 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: BETA+1
 Device: Realme U1 (RMX1831)
-Device maintainer: JAISHNAVPRASAD
+Device maintainer: Akash
 Android Version: 11
 
-==== 2021-01-24 =====
-- Initial build
-- January security patch [Sunfish fp]
-- Volte fixed
-- Fingerprint cleanup after reboot fixed
-- Hotspot fixed
+==== 2021-03-11 =====
+- Security Patch 5th March 2021
+- March security patch [Sunfish fp]
+- Volte Working
+- 
