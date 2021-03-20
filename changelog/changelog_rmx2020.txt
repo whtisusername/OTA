@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Build type: BETA+1
+Build type: STABLE
 Device: Realme C3 (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 11
@@ -15,3 +15,7 @@ Android Version: 11
 -Battery capacity fixed
 -Audio issues fixed
 -And many more
+
+==== 2021-03-20 =====
+- Bump to CipherOS 1.5 CRYPTO
+- Misc Fixes & Improvements
