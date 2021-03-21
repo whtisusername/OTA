@@ -1,6 +1,6 @@
 Highlights & Device Specific Changes:
 Build type: Stable
-Device: Lavender - Redmi S2/Y2
+Device: Redmi S2/Y2
 Device maintainer: Dhruv
 Android Version: 11
 
