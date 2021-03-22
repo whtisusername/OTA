@@ -4,5 +4,5 @@ Device: Redmi S2/Y2
 Device maintainer: Dhruv
 Android Version: 11
 
-==== 2021-03-12 =====
+==== 2021-03-22 =====
 - Initial Official Build

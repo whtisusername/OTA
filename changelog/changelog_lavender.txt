@@ -4,5 +4,5 @@ Device: Lavender - Redmi Note 7/7S
 Device maintainer: whtisusername
 Android Version: 11
 
-==== 2021-03-12 =====
+==== 2021-03-22 =====
 - Initial Official Build
