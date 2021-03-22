@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1611463725",
- "filename": "CipherOS-1.0-INFERNO-20210124-0450-CPH1859-OFFICIAL-ALPHA.zip",
- "id": "0b71c9899bc45f34dc224262a88ac9b5",
- "romtype":"BETA",
+ "datetime": "1616391610",
+ "filename": "CipherOS-1.5-CRYPTO-20210322-0358-CPH1859-OFFICIAL-STABLE.zip",
+ "id": "53e530d04a6e8c79463307de1ca7ee1a",
+ "romtype":"STABLE",
  "size": 661502189,
- "url": "http://direct.cipheros.workers.dev/Realme/CPH1859/CipherOS-1.0-INFERNO-20210124-0450-CPH1859-OFFICIAL-ALPHA.zip",
- "version": "1.0-INFERNO"
+ "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.5-CRYPTO-20210322-0358-CPH1859-OFFICIAL-STABLE.zip",
+ "version": "1.5-CRYPTO"
 }
 ]
 }

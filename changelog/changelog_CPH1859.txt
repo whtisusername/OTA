@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: STABLE
 Device: Realme 1 (CPH1859/CPH1861)
-Device maintainer: JAISHNAVPRASAD
+Device maintainer: JAISHNAVPRASAD & Ghost
 Android Version: 11
 
 ==== 2020-12-15 =====
@@ -12,3 +12,8 @@ Android Version: 11
 ==== 2020-12-15 =====
 - January security patch
 - BETA release
+
+==== 2021-03-22 =====
+- March Security patch
+- CipherOS Crypto Release
+- Misc Fixes & Improvements
