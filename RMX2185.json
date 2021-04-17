@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1616057104",
- "filename": "CipherOS-1.5-CRYPTO-20210318-0847-RMX2185-OFFICIAL-STABLE.zip",
- "id": "086d3c6a5b5696e4e78a3ad044356bab",
+ "datetime": "1618667111",
+ "filename": "CipherOS-1.5-CRYPTO-20210417-1345-RMX2185-OFFICIAL-STABLE.zip",
+ "id": "9f97938b97f87d95df2007d271fb1808",
  "romtype":"STABLE",
  "size": 654603053,
- "url": "https://liquidtelecom.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.5-CRYPTO-20210318-0847-RMX2185-OFFICIAL-STABLE.zip",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/RMX2185/CipherOS-1.5-CRYPTO-20210417-1345-RMX2185-OFFICIAL-STABLE.zip",
  "version": "1.5-CRYPTO"
 }
 ]
