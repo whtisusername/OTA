@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi 5
+Device maintainer: Ebin
+Android Version: 11
+
+==== 2021-04-20 =====
+- Initial Official Build

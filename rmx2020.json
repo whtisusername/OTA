@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1616255184",
- "filename": "CipherOS-1.5-CRYPTO-20210320-1546-rmx2020-OFFICIAL-STABLE.zip",
- "id": "66c611c5a4ecec7a0f2bd68c8c32ddba",
+ "filename": "CipherOS-1.5-CRYPTO-20210418-1704-RMX2020-OFFICIAL-STABLE.zip",
+ "id": "a7352f33e59e92932a7bfa7ee2a7191cfc467a81",
  "romtype":"STABLE",
  "size": 711983104,
- "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.5-CRYPTO-20210320-1546-rmx2020-OFFICIAL-STABLE.zip",
+ "url": "https://netix.dl.sourceforge.net/project/cipheros/CRYPTO/RMX2020/CipherOS-1.5-CRYPTO-20210418-1704-RMX2020-OFFICIAL-STABLE.zip",
  "version": "1.5-CRYPTO"
 }
 ]

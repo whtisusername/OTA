@@ -19,3 +19,8 @@ Android Version: 11
 ==== 2021-03-20 =====
 - Bump to CipherOS 1.5 CRYPTO
 - Misc Fixes & Improvements
+
+==== 2021-04-20 =====
+- April Security Patch
+- Source Side Changes
+- Misc Fixes & Improvements

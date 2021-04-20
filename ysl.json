@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1616378425",
- "filename": "CipherOS-1.5-CRYPTO-20210322-0203-ysl-OFFICIAL-STABLE.zip",
- "id": "2257aadd7be8e75cfefeeed1d1586a4b",
+ "filename": "CipherOS-1.5-CRYPTO-20210419-0301-ysl-OFFICIAL-STABLE.zip",
+ "id": "0a6ac02f2163261004bc66aef3e182baccb4d203",
  "romtype":"STABLE",
  "size": 711983104,
- "url": "https://iweb.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.5-CRYPTO-20210322-0203-ysl-OFFICIAL-STABLE.zip",
+ "url": "https://altushost-swe.dl.sourceforge.net/project/cipheros/CRYPTO/ysl/CipherOS-1.5-CRYPTO-20210419-0301-ysl-OFFICIAL-STABLE.zip",
  "version": "1.5-CRYPTO"
 }
 ]
