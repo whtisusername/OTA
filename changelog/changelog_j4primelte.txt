@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Samsung J4 Prime
+Device maintainer: Nippon
+Android Version: 11
+
+==== 2021-04-21 =====
+- Initial Official Build

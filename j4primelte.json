@@ -1,0 +1,13 @@
+{
+"response": [
+{
+ "datetime": "1616378425",
+ "filename": "CipherOS-1.5-CRYPTO-20210420-1414-j4primelte-OFFICIAL-STABLE-VANILLA.zip",
+ "id": "0a6ac02f2163261004bc66aef3e182baccb4d203",
+ "romtype":"STABLE",
+ "size": 711983104,
+ "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/j4primelte/CipherOS-1.5-CRYPTO-20210420-1414-j4primelte-OFFICIAL-STABLE-VANILLA.zip",
+ "version": "1.5-CRYPTO"
+}
+]
+}
