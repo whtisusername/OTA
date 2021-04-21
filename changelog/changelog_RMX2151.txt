@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: realme 7 / Narzo 20 Pro
+Device maintainer: Ksauraj
+Android Version: 11
+
+==== 2021-04-21 =====
+- Initial Official Build
