@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1616255184",
- "filename": "CipherOS-1.5-CRYPTO-20210418-1704-RMX2020-OFFICIAL-STABLE.zip",
- "id": "a7352f33e59e92932a7bfa7ee2a7191cfc467a81",
+ "datetime": "1621269582",
+ "filename": "CipherOS-1.5-CRYPTO-20210506-0426-RMX2020-OFFICIAL-STABLE-GAPPS.zip",
+ "id": "ab1c5a771f725de916bc1468c434dad4",
  "romtype":"STABLE",
  "size": 711983104,
- "url": "https://netix.dl.sourceforge.net/project/cipheros/CRYPTO/RMX2020/CipherOS-1.5-CRYPTO-20210418-1704-RMX2020-OFFICIAL-STABLE.zip",
+ "url": "https://netix.dl.sourceforge.net/project/cipheros/CRYPTO/RMX2020/CipherOS-1.5-CRYPTO-20210506-0426-RMX2020-OFFICIAL-STABLE-GAPPS.zip",
  "version": "1.5-CRYPTO"
 }
 ]
