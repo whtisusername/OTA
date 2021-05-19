@@ -6,3 +6,9 @@ Android Version: 11
 
 ==== 2021-05-16 =====
 - Initial Official Build
+
+==== 2021-05-18 =====
+- Fixed offline charging
+- Fixed mic volume issues on some apps
+- Gestures are now working properly
+- Updated stock vendor blobs to 21.5.14

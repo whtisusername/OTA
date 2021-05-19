@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1616391610",
- "filename": "CipherOS-1.5-CRYPTO-20210322-0358-CPH1859-OFFICIAL-STABLE.zip",
- "id": "53e530d04a6e8c79463307de1ca7ee1a",
+ "datetime": "1621335195",
+ "filename": "CipherOS-1.5-CRYPTO-20210516-1421-CPH1859-OFFICIAL-STABLE-VANILLA.zip",
+ "id": "57149f3beaabf202fcb8707d084a92fe",
  "romtype":"STABLE",
- "size": 661502189,
- "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.5-CRYPTO-20210322-0358-CPH1859-OFFICIAL-STABLE.zip",
+ "size": 645573492,
+ "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/CCipherOS-1.5-CRYPTO-20210516-1421-CPH1859-OFFICIAL-STABLE-VANILLA.zip",
  "version": "1.5-CRYPTO"
 }
 ]

@@ -1,11 +1,18 @@
 Highlights & Device Specific Changes:
-Build type: BETA+1
+Build type: STABLE
 Device: Realme U1 (RMX1831)
-Device maintainer: Akash
+Device maintainer: Akash & JAISHNAVPRASAD
 Android Version: 11
 
 ==== 2021-03-11 =====
 - Security Patch 5th March 2021
 - March security patch [Sunfish fp]
 - Volte Working
-- 
+
+==== 2021-05-18 =====
+- May security patch
+- Perfomance tweaks
+- Optimized shutdown time
+- Disabled HW Overlays by default
+- Fix night light & screen recorder lags
+- Added RealmeParts

@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1615455962",
- "filename": "CipherOS-1.0-INFERNO-20210311-0948-RMX1831-OFFICIAL-BETA.zip",
- "id": "500976af693dce077496ffd3b41375e4",
- "romtype":"BETA+1",
- "size": 654603053,
- "url": "https://master.dl.sourceforge.net/project/cipheros/STABLE/CipherOS-1.0-INFERNO-20210311-0948-RMX1831-OFFICIAL-BETA.zip",
- "version": "1.1-INFERNO"
+ "datetime": "1621335195",
+ "filename": "CipherOS-1.5-CRYPTO-20210516-0609-RMX1831-OFFICIAL-STABLE-VANILLA.zip",
+ "id": "4ef5fee436ce327e320356399e389489",
+ "romtype":"STABLE",
+ "size": 632275353,
+ "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/CipherOS-1.5-CRYPTO-20210516-0609-RMX1831-OFFICIAL-STABLE-VANILLA.zip",
+ "version": "1.5-CRYPTO"
 }
 ]
 }

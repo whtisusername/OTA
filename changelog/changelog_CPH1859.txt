@@ -17,3 +17,8 @@ Android Version: 11
 - March Security patch
 - CipherOS Crypto Release
 - Misc Fixes & Improvements
+
+==== 2021-05-18 =====
+- May security patch
+- Nuke treble app
+- Perfomance tweaks
