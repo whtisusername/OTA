@@ -6,3 +6,10 @@ Android Version: 11
 
 ==== 2021-04-20 =====
 - Initial Official Build
+
+==== 2021-05-19 =====
+- May 2021 Security Patch.
+- Address some denials.
+- Fixed late network registration.
+- Disabled Blurs by default 
+- Many more performance improvements
