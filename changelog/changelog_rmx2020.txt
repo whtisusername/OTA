@@ -37,3 +37,10 @@ Android Version: 11
 - Update GCam Go to v1.9 from Greatness
 - Source Side Changes
 - Misc Fixes & Improvements
+
+==== 2021-06-11 =====
+- June Security Patch
+- More RAM optimization
+- Define rounded corners
+- Enforcing+Encrypted
+

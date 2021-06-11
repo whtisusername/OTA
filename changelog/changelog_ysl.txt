@@ -11,3 +11,10 @@ Android Version: 11
 - April Security Patch
 - Source Side Changes
 - Misc Fixes & Improvements
+
+==== 2021-06-11 =====
+- Enabled iorapd
+- Disabled WLAN firmware loggings
+- Fixed headphone volume buttons in call
+- Update Auto Brightness Overlays
+- More Underhood Changes
