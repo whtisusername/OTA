@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623401297",
- "filename": "CipherOS-1.7-ASTRA-20210611-1048-tucana-OFFICIAL-GAPPS.zip",
+ "datetime": "1623504245",
+ "filename": "CipherOS-1.7-ASTRA-20210612-1525-tucana-OFFICIAL-GAPPS.zip",
  "id": "490c647592d4a8b8d2aeab818b921a3c",
  "romtype":"STABLE",
- "size": 1283968926,
- "url": "https://pilotfiber.dl.sourceforge.net/project/cipheros/ASTRA/tucana/CipherOS-1.7-ASTRA-20210611-1048-tucana-OFFICIAL-GAPPS.zip",
+ "size": 1610368346,
+ "url": "https://pilotfiber.dl.sourceforge.net/project/cipheros/ASTRA/tucana/CipherOS-1.7-ASTRA-20210612-1525-tucana-OFFICIAL-GAPPS.zip",
  "version": "1.7-ASTRA"
 }
 ]

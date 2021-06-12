@@ -29,3 +29,7 @@ Android Version: 11
 - Improved FOD speed and accuracy
 - Removed battery indicator LED
   from Settings
+
+==== 2021-06-12 =====
+- Fixed CPU freq issue
+- Removed batterysecret logspam
