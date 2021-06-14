@@ -6,3 +6,10 @@ Android Version: 11
 
 ==== 2021-03-22 =====
 - Initial Official Build
+
+==== 2021-06-14 =====
+- CipherOS v1.7 Astra
+- New UI Changes
+- 5th June Security Patch
+- Google Camera included by default
+- Updated Xiaomi Parts
