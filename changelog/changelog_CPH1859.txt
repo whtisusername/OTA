@@ -22,3 +22,8 @@ Android Version: 11
 - May security patch
 - Nuke treble app
 - Perfomance tweaks
+
+==== 2021-06-15 =====
+- Added RealmeParts
+- June security patch
+- Now comes with faceunlock

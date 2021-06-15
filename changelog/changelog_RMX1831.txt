@@ -16,3 +16,7 @@ Android Version: 11
 - Disabled HW Overlays by default
 - Fix night light & screen recorder lags
 - Added RealmeParts
+
+==== 2021-06-15 =====
+- Perfomance tweaks
+- June security patch

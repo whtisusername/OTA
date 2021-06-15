@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1621335195",
- "filename": "CipherOS-1.5-CRYPTO-20210516-0609-RMX1831-OFFICIAL-STABLE-VANILLA.zip",
- "id": "4ef5fee436ce327e320356399e389489",
- "romtype":"STABLE",
- "size": 632275353,
- "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/CipherOS-1.5-CRYPTO-20210516-0609-RMX1831-OFFICIAL-STABLE-VANILLA.zip",
- "version": "1.5-CRYPTO"
+"datetime": "1623678991",
+"filename": "CipherOS-1.7-ASTRA-20210614-1356-RMX1831-OFFICIAL-VANILLA.zip",
+"id": "0808905758da9928266c14f27a7d4be0",
+"romtype":"STABLE",
+"size": "665489784",
+"url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/RMX1831/CipherOS-1.7-ASTRA-20210614-1356-RMX1831-OFFICIAL-VANILLA.zip",
+"version": "1.7-ASTRA"
 }
 ]
 }
