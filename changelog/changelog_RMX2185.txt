@@ -20,3 +20,10 @@ Android Version: 11
 - Added OOS VoLTE & VoWiFI Icons
 - Redesigned VolumeUI Interface
 - All New Redesigned CIpherOS Updater
+
+==== 2021-06-15 =====
+- ROM source upstream to 1.7
+- Shifted to enforcing
+- Improved performance and stability
+- Misc Changes and fixes
+- Updated Realme Parts
