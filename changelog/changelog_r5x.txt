@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Realme 5 Series (r5x)
+Device maintainer: Naresh
+Android Version: 11
+
+==== 2021-06-15 =====
+- Updated to june Refin FP.
+- Enforcing.
+- Enabled pre rendering feature.
+- Added Realme Parts.
