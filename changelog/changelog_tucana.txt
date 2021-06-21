@@ -33,3 +33,11 @@ Android Version: 11
 ==== 2021-06-12 =====
 - Fixed CPU freq issue
 - Removed batterysecret logspam
+
+==== 2021-06-21 =====
+- Kernel version: 4.14.237
+- Better display colors (no yellow tint)
+- Improved battery life
+- Removed some debugging
+- Switched from schedtune to uclamp
+- Updated stock vendor blobs to 21.6.16
