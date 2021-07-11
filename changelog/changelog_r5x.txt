@@ -9,3 +9,11 @@ Android Version: 11
 - Enforcing.
 - Enabled pre rendering feature.
 - Added Realme Parts.
+
+
+==== 2021-07-11 =====
+- Added Kharame Dirac.
+- Switched to NaryTime kernel
+- Tuned Zram performance.
+- Disable Vsync for CPU rendered apps.
+- Enabled seamless transfer (headphone and speaker) in music notification.
