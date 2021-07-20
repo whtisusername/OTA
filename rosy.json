@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1623745600",
- "filename": "CipherOS-1.7-ASTRA-20210615-0829-rosy-OFFICIAL-VANILLA.zip",
- "id": "e75aea36a3c0f155c72753ff379063af",
+ "datetime": "1626716094",
+ "filename": "CipherOS-1.7-ASTRA-20210719-2308-rosy-OFFICIAL-GAPPS.zip",
+ "id": "b08c7e7b7c4582d18e01447a598b3443",
  "romtype":"STABLE",
- "size": "704262041",
- "url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/rosy/CipherOS-1.7-ASTRA-20210615-0829-rosy-OFFICIAL-VANILLA.zip",
+ "size": "1042513288",
+ "url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/rosy/CipherOS-1.7-ASTRA-20210719-2308-rosy-OFFICIAL-GAPPS.zip",
  "version": "1.7-ASTRA"
 }
 ]

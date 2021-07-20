@@ -25,3 +25,24 @@ Android Version: 11
 - Switched to Google's LMKD configuration and ditched CAF's kernel LMK driver
 - fixed memory management issues
 - fixed heating issues
+
+ ==== 2021-07-20 =====
+ - July security patch
+ - fixed DT2W not working on first boot
+ - faster boot time (Pixel boot enhancement + sched_boost + schedtune boost from Pixel's (crosshatch)) 
+ - Switched to libperf Power HAL
+ - Enhanced Scheduler settings from Pixel's
+ - Fixed mic not working in VoIP calls in last build
+ - Fixed CAF's broken mincpubw governor setting in post_boot script
+ - Increased zram size to 1.3GB
+ - Shortened wait time for services exit to optimize shutdown time
+ - fixed speaker on call when device screen turned off
+ - disabled {debug kernel, UFS, SCHED_CORE_CTL} configs
+ - Enabled and Upstreamed LZ4 module (upstream from ALS 5.4)
+ - thermal changes from Pixel 3XL
+ - BBR backports from @lmaoicon
+ - added sound control (requires root and kernel manager to access)
+ - fixed offline charging leds
+ - disabled DMA for i2c node
+ - imported missed out xiaomi audio changes (improved speaker audio quality)
+ - improved performance
