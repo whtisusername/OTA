@@ -1,13 +1,15 @@
 {
 "response": [
 {
-"datetime": "1623682451",
-"filename": "CipherOS-1.7-ASTRA-20210614-1522-r5x-OFFICIAL-GAPPS.zip",
-"id": "16e5684aa8081d6fc684fff6b9fe9f49",
-"romtype":"STABLE",
-"size": 1304090754,
-"url": "https://master.dl.sourceforge.net/project/cipheros/ASTRA/r5x/CipherOS-1.7-ASTRA-20210614-1522-r5x-OFFICIAL-GAPPS.zip",
-"version": "1.7-ASTRA"
+ "datetime": "1628265213",
+ "filename": "CipherOS-1.7-ASTRA-20210806-0609-r5x-OFFICIAL-VANILLA.zip",
+ "id": "b55238bf0af1e8054003ce4c6d63e556
+d9cdca43f4c57e3c25522950142108a7",
+ "romtype":"STABLE",
+ "size": "1296546597
+1296546597",
+ "url": "https://master.dl.sourceforge.net/project/CipherOS/ASTRA/r5x/CipherOS-1.7-ASTRA-20210806-0609-r5x-OFFICIAL-VANILLA.zip",
+ "version": "1.7-ASTRA"
 }
 ]
 }
