@@ -17,3 +17,10 @@ Android Version: 11
 - Tuned Zram performance.
 - Disable Vsync for CPU rendered apps.
 - Enabled seamless transfer (headphone and speaker) in music notification.
+
+
+==== 2021-08-10 =====
+ - Fixed ScreenRecording Lag
+ - August Redfin FP.
+ - Disable NearbyMessagingService & DiscoveryService
+ - Add dex2oat config and enable dex2oat64 for performance
