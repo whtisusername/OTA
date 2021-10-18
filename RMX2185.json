@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1618667111",
- "filename": "CipherOS-1.5-CRYPTO-20210417-1345-RMX2185-OFFICIAL-STABLE.zip",
- "id": "9f97938b97f87d95df2007d271fb1808",
+ "datetime": "1633540084",
+ "filename": "CipherOS-2.0-KNIGHT-RMX2185-20211018-1119-BETA-OFFICIAL-VANILLA.zip",
+ "id": "9b7accab420e95ca74de9d9a7a13325d",
  "romtype":"STABLE",
- "size": 654603053,
- "url": "https://master.dl.sourceforge.net/project/cipheros/CRYPTO/RMX2185/CipherOS-1.5-CRYPTO-20210417-1345-RMX2185-OFFICIAL-STABLE.zip",
- "version": "1.5-CRYPTO"
+ "size": 645603053,
+ "url": "https://master.dl.sourceforge.net/project/cipheros/KNIGHT/CipherOS-2.0-KNIGHT-RMX2185-20211018-1119-BETA-OFFICIAL-VANILLA.zip",
+ "version": "2.0-KNIGHT"
 }
 ]
 }
