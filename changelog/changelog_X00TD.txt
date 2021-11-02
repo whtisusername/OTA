@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: Asus Zenfone Max Pro M1 (X00TD)
+Device maintainer: Sarthak Roy
+Android Version: 12
+
+==== 2021-01-24 =====
+- Initial OFFICIAL Build
+- Comes with 4.19 Kernel
+
+NOTE: Dont flash 4.4 custom kernels
+
