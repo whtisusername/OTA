@@ -2,7 +2,11 @@ Highlights & Device Specific Changes:
 Build type: STABLE
 Device: Realme 5 Series (r5x)
 Device maintainer: Naresh
-Android Version: 11
+Android Version: 12
+
+==== 2021-09-09 =====
+- CipherOS 2.0 - Based on Android 12.0
+- Redfin October FP.
 
 ==== 2021-06-15 =====
 - Updated to june Refin FP.
