@@ -1,0 +1,22 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: Realme C3 (RMX2020)
+Device maintainer: Sarthak Roy
+Android Version: 12
+
+==== 2021-11-12 =====
+- Initial Android 12 Build
+- Initial VNDK31 Source built vendor build
+- Updated to DRM 1.4 from Redmi Ares 
+- Updated libudf from Redmi Ares
+- Updated to AIDL Vibration HAL from Nokia Ronin
+- Fixed Recovery stuck issue
+- Fixed Dual sim issue
+- Fixed Heating and Battery drain issue
+- Comes with latest NEOLIT V4 upstreamed to 4.14.254 compiled with latest AOSP Clang
+- Added Realme Parts with all new Android 12 Design
+- Enable FBE
+- Fixed BT Audio
+
+ NOTE: NEED MAGISK TO BOOT
+
