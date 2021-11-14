@@ -4,6 +4,21 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12
 
+==== 2021-11-14 ====
+- Security Patch : 05th Nov 2021
+- Based on android-12.0.0_r13
+- Added RGB display color control
+- Switched to MIUI based kernel
+- Kernel version upstreamed to 4.14.255
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11300-SMxxx0.QSSI12.0
+- Fixed dying device bug
+- Fixed SafetyNet bypass
+- Fastcharge gets now handled the proper
+  way
+- Switched to AOSP WFD
+- Some minor improvements
+
 ==== 2021-10-29 ====
 - Security Patch : 10th Oct 2021
 - CipherOS 2.0 - Based on Android 12.0

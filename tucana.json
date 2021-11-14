@@ -1,12 +1,12 @@
 {
 "response": [
 {
- "datetime": "1635524558",
- "filename": "CipherOS-2.0-KNIGHT-cipher_tucana-20211029-1822-BETA-OFFICIAL-VANILLA.zip",
+ "datetime": "1636903158",
+ "filename": "CipherOS-2.0-KNIGHT-cipher_tucana-20211114-1619-BETA-OFFICIAL-VANILLA.zip",
  "id": "8469ny2ek5l2m842nxgz95frorxrscd",
  "romtype":"STABLE",
- "size": 1155036723,
- "url": "https://pilotfiber.dl.sourceforge.net/project/cipheros/KNIGHT/tucana/CipherOS-2.0-KNIGHT-cipher_tucana-20211029-1822-BETA-OFFICIAL-VANILLA.zip",
+ "size": 1164943333,
+ "url": "https://pilotfiber.dl.sourceforge.net/project/cipheros/KNIGHT/tucana/CipherOS-2.0-KNIGHT-cipher_tucana-20211114-1619-BETA-OFFICIAL-VANILLA.zip",
  "version": "2.0-KNIGHT"
 }
 ]
