@@ -2,11 +2,11 @@
 "response": [
 {
  "datetime": "1633540084",
- "filename": "CipherOS-2.0-KNIGHT-RMX2185-20211018-1119-BETA-OFFICIAL-VANILLA.zip",
- "id": "9b7accab420e95ca74de9d9a7a13325d",
+ "filename": "CipherOS-2.0-KNIGHT-cipher_RMX2185-20211115-1624-BETA-OFFICIAL-VANILLA.zip",
+ "id": "c8726387446de38c06b8cc32dbb6305c4fe1d267",
  "romtype":"STABLE",
  "size": 645603053,
- "url": "https://master.dl.sourceforge.net/project/cipheros/KNIGHT/CipherOS-2.0-KNIGHT-RMX2185-20211018-1119-BETA-OFFICIAL-VANILLA.zip",
+ "url": "https://master.dl.sourceforge.net/project/cipheros/KNIGHT/RMX2185/CipherOS-2.0-KNIGHT-cipher_RMX2185-20211115-1624-BETA-OFFICIAL-VANILLA.zip",
  "version": "2.0-KNIGHT"
 }
 ]
