@@ -4,6 +4,14 @@ Device: Realme C11 (RMX2185)
 Device maintainer: TechyMinati
 Android Version: 12
 
+==== 2021-11-16 ====
+- Security Patch : 5th Nov 2021
+- Fixed VoLTE , VoWiFi Fully
+- ViLTE is partially fixed
+- Improved Monet
+- Fixed BT Audio Issues
+- Fixed Device cut-out issues
+- Build Ships MinatiKernel-2.0 (Linux 4.19.128)
 
 ==== 2021-10-18 ====
 - Security Patch : 10th Oct 2021
