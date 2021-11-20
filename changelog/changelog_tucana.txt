@@ -1,0 +1,74 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Xiaomi Mi CC9 Pro/Note 10
+Device maintainer: alibei
+Android Version: 12
+
+==== 2021-11-25 ====
+- Switched FBE ice encryption to FBE v2
+- Increased autobrightness debounce values
+- Removed /cust to /product retrofit
+- Addressed sepolicy denials
+
+==== 2021-11-14 ====
+- Security Patch : 05th Nov 2021
+- Based on android-12.0.0_r13
+- Added RGB display color control
+- Switched to MIUI based kernel
+- Kernel version upstreamed to 4.14.255
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11300-SMxxx0.QSSI12.0
+- Fixed dying device bug
+- Fixed SafetyNet bypass
+- Fastcharge gets now handled the proper
+  way
+- Switched to AOSP WFD
+- Some minor improvements
+
+==== 2021-10-29 ====
+- Security Patch : 10th Oct 2021
+- CipherOS 2.0 - Based on Android 12.0
+- Based on android-12.0.0_r2
+- Cipher is AOSP Based Now.
+- Introduced Monet
+- Added Three-finger Swipe to SS
+- Introducing Cipher Shades on Android 12.0
+- New trees and kernel
+
+==== 2021-06-21 =====
+- Kernel version: 4.14.237
+- Better display colors (no yellow tint)
+- Improved battery life
+- Removed some debugging
+- Switched from schedtune to uclamp
+- Updated stock vendor blobs to 21.6.16
+
+==== 2021-06-12 =====
+- Fixed CPU freq issue
+- Removed batterysecret logspam
+
+==== 2021-06-11 =====
+- CipherOS 1.7 Astra
+- Kernel version: 4.14.236
+- Included firmware from 21.6.7
+- Updated a lot of caf blobs to
+  LA.UM.9.1.r1-09600-SMxxx0.0
+- Updated stock vendor blobs to 21.6.7
+- Updated redfin fingerprint to June
+- Fixed mic quality issue in apps like
+  Google Duo, Jitsi Meet
+- Fixed memory leak in camera driver
+- Removed a lot of VLA usages in
+  the Kernel
+- Improved FOD speed and accuracy
+- Removed battery indicator LED
+  from Settings
+
+==== 2021-05-18 =====
+- Fixed offline charging
+- Fixed mic volume issues on some apps
+- Gestures are now working properly
+- Updated stock vendor blobs to 21.5.14
+
+==== 2021-05-16 =====
+- Initial Official Build
