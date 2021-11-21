@@ -4,6 +4,16 @@ Device: Realme C3 (RMX2020)
 Device maintainer: Sarthak Roy
 Android Version: 12
 
+=== 2021-11-21 ====
+- Security Patch : 05th Nov 2021
+- Based on android-12.0.0_r13
+- Based on VNDK31 Source built vendor
+- Fixed VOLTE SMS issues 
+- Comes with latest NEOLIT V4 upstreamed to 4.14.254 compiled with latest AOSP Clang 12
+- Some minor improvements
+
+ NOTE: NEED MAGISK TO BOOT
+
 === 2021-11-15 ====
 - Security Patch : 05th Nov 2021
 - Based on android-12.0.0_r13
