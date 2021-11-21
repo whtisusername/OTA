@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: Xiaomi Redmi Note 9 (merlinx)
+Device maintainer: Matsvei Niaverau
+Android Version: 12
+
+=== 2021-11-19 ====
+- Initial Android 12 Build
+- Initial VNDK31 Source built vendor build
