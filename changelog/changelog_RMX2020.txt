@@ -1,0 +1,60 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Realme C3 (RMX2020)
+Device maintainer: Sarthak Roy
+Android Version: 12
+
+=== 2022-01-12 ====
+- Security Patch : 05th Jan 2022
+- Based on android-12.0.0_r26
+- We are now Enforcing 
+- Fixed VOLTE SMS and Payment Apps issues 
+- Comes with latest NEOLIT V5 upstreamed to 4.14.261 compiled with latest AOSP Clang 12
+- Synced brightness like stock ROM
+- Synced Status Bar and notch padding like Stock ROM
+- Fixed no Magisk booting
+- Update powerscntbl from A.61
+- Import recommended pm dex props
+- Update WifiOverlay from Stock C.06
+- Switched to OSS AIDL Light hal
+- Use arch armv8-2a-dotprod variant
+- Updated rounded corners
+- Some minor improvements
+
+=== 2021-11-21 ====
+- Security Patch : 05th Nov 2021
+- Based on android-12.0.0_r13
+- Based on VNDK31 Source built vendor
+- Fixed VOLTE SMS issues 
+- Comes with latest NEOLIT V4 upstreamed to 4.14.254 compiled with latest AOSP Clang 12
+- Some minor improvements
+
+ NOTE: NEED MAGISK TO BOOT
+
+=== 2021-11-15 ====
+- Security Patch : 05th Nov 2021
+- Based on android-12.0.0_r13
+- Based on VNDK31 Source built vendor
+- Fixed VOLTE (finally!)
+- Fixed BT Audio
+- Comes with latest NEOLIT V4 upstreamed to 4.14.254 compiled with latest AOSP Clang 12
+- Fixed SafetyNet bypass
+- Some minor improvements
+
+ NOTE: NEED MAGISK TO BOOT
+
+==== 2021-11-12 =====
+- Initial Android 12 Build
+- Initial VNDK31 Source built vendor build
+- Updated to DRM 1.4 from Redmi Ares 
+- Updated libudf from Redmi Ares
+- Updated to AIDL Vibration HAL from Nokia Ronin
+- Fixed Recovery stuck issue
+- Fixed Dual sim issue
+- Fixed Heating and Battery drain issue
+- Comes with latest NEOLIT V4 upstreamed to 4.14.254 compiled with latest AOSP Clang
+- Added Realme Parts with all new Android 12 Design
+- Enable FBE
+- Fixed BT Audio
+
+ NOTE: NEED MAGISK TO BOOT
