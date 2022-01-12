@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1637875576",
- "filename": "CipherOS-2.0-KNIGHT-cipher_tucana-20211125-2226-BETA-OFFICIAL-GAPPS.zip",
- "id": "f536ff21354f21037cb3f796c4fc8e6a",
+ "datetime": "1641994506",
+ "filename": "CipherOS-2.1-SHADE-cipher_tucana-20220112-1435-OFFICIAL-GAPPS.zip",
+ "id": "38ce37a6958a9318dbcde4d25392eec4",
  "romtype":"STABLE",
- "size": 1482678419,
- "url": "https://pilotfiber.dl.sourceforge.net/project/cipheros/KNIGHT/tucana/CipherOS-2.0-KNIGHT-cipher_tucana-20211125-2226-BETA-OFFICIAL-GAPPS.zip",
- "version": "2.0-KNIGHT"
+ "size": 1514991887,
+ "url": "https://sourceforge.net/projects/cipheros/files/SHADE/tucana/CipherOS-2.1-SHADE-cipher_tucana-20220112-1435-OFFICIAL-GAPPS.zip/download",
+ "version": "2.1-SHADE"
 }
 ]
 }

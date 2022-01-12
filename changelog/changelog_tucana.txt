@@ -4,6 +4,30 @@ Device: Xiaomi Mi CC9 Pro/Note 10
 Device maintainer: alibei
 Android Version: 12
 
+==== 2022-01-12 ====
+- Security Patch : 05th Jan 2022
+- CipherOS 2.1 - Based on Android 12.0
+- Based on android-12.0.0_r26
+- Fixed OK google detection
+- Fixed to dim auto brightness
+- Fixed permission issue with the clock
+- Fixed VoLTE no call sound till some
+  answers
+- Fixed exfat OTG
+- Updated caf vendor blobs from
+  LA.UM.9.1.r1-10900-SMxxx0.0
+- Updated caf system blobs from
+  LA.QSSI.12.0.r1-05600-qssi.0
+- Updated blobs from V12.5.5.0.RFDMIXM
+- Switched arch variant to armv8-2a-dotprod
+- Imported neural network blobs
+- Imported TUI blobs
+- Imported SOC helper blobs
+- Imported missing DRM blobs
+- Kernel version upstreamed to 4.14.262
+- Kernel caf tag upstreamed to
+  LA.UM.9.1.r1-11500-SMxxx0.0
+
 ==== 2021-11-25 ====
 - Switched FBE ice encryption to FBE v2
 - Increased autobrightness debounce values
