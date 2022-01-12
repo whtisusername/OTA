@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Xiaomi POCO F1 (beryllium)
+Device maintainer: Sourav 
+Android Version: 12
+
+=== 2022-01-12 ====
+- Security Patch : 05th Jan 2022
+- Based on android-12.0.0_r26
+- Initial OFFICIAL Build
+- SELinux Status Is Enforcing
+- User Build Type
+- SilverCore 10.6 Default Kernel
+- Device Masked As Pixel 5 (Redfin)
