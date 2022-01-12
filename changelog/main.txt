@@ -1,17 +1,20 @@
-** CipherOS 2.0 KNIGHT **
+** CipherOS 2.1 SHADE **
 - Android Security Patch :
- * 5th October 2021 
+ * 5th Januar 2022
 
 -System:
-* Based on android-12.0.0_r2
-* Cipher is AOSP Based Now.
-* Introduced Monet 
-* Added Three-finger Swipe to SS
-* Introducing Cipher Shades on Android 12.0
-* Added Back Kernel Header generator
-* Fixed Duplicated Baseband in About Phone
-* Added Android 12 Themed icons
+* Based on android-12.0.0_r26
+* Redesigned Settings
+* Introduced CipherWidget
+* Introduced CipherOS GO Edition
+* Added new Wallpapers
+* Added Monet Settings
+* Added Network Traffic Indicator
+* Added VoLTE icon from Moto
+* Added Advanced Reboot
+* Added Exact Calculator for Vanilla builds
+* Adapted every Vanilla AOSP app for themed icons
+* Switched to GSans font
 * Safetynet should pass by default
-* Redesigned Launcher
 * Many more misc changes
 
