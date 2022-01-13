@@ -1,0 +1,16 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Redmi S2/Y2 (ysl)
+Device maintainer: Dhruv Chhura
+Android Version: 12
+
+=== 2022-01-12 ====
+- Based on android-12.0.0_r26
+- Switch to Enforcing
+- Merged 4.9.296 into kernel
+- Update fingerprint from January Redfin
+- Fix wifi after hotspot
+- Disable WLAN firmware logging
+- Switch to QTI health implementation
+- Don't pin camera app in memory
+- Add offline charging LED indicator
