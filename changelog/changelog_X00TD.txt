@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Asus Zenfone Max Pro M1 (X00TD)
+Device maintainer: Sarthak Roy
+Android Version: 12
+
+==== 2022-01-14 =====
+- Switched to 4.4 Kernel on userdemand
+- Fixed WFD and experienced bugs
+
+NOTE: Dont flash 4.19 custom kernels
+ 
+==== 2021-10-24 =====
+- Initial OFFICIAL Build
+- Comes with 4.19 Kernel
+
+NOTE: Dont flash 4.4 custom kernels
