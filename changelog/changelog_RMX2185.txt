@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Realme C11/12 (RMX2185)
+Device maintainer: TechyMinati
+Android Version: 12
+
+=== 2022-01-12 ====
+- Security Patch : 05th Jan 2022
+- Based on android-12.0.0_r26
+- Enforcing 
+- Fixed VOLTE SMS and Payment Apps issues 
+- Ships Minati-Kernel-Karashi
+- Synced brightness like stock ROM
+- Synced Status Bar and notch padding like Stock ROM
+- Improved Memory Usage
+- Fix NPE Crashes with Imsinit
+- Updated rounded corners
+- Some minor improvements
+
