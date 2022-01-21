@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes: 
+Build type: STABLE 
+Device: Xiaomi Redmi Note 4/4x (mido)
+Device maintainer: Alone0316
+Android Version: 12
+
+==== 2022-01-21 ====
+- Security Patch : 05th Jan 2022 
+- Based on android-12.0.0_r26 
+- Initial OFFICIAL Build
+- SELinux Status Is Enforcing
+- Fussion 4.9.297 as default kernel
+- Build type is userdebug
