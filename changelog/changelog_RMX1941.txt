@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Realme C2 (RMX1941)
+Device maintainer: Anoosragh
+Android Version: 12
+
+=== 2022-01-27 ====
+- Security Patch : 05th Jan 2022
+- Based on android-12.0.0_r26
+- Switch to enforcing
+- Synced brightness like stock ROM
+- Import recommended pm dex props
+- Some minor improvements
+- Update and tune overlay
+- Update GcamGO
+- Fix offline charging
+- Source side changes
