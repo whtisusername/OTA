@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: STABLE
+Device: Redmi Note 7/7S (lavender)
+Device maintainer: whtisusername
+Android Version: 12
+
+=== 2022-01-31 ====
+- Based on android-12.0.0_r26
+- Switch to Enforcing
+- Merged 4.4.301 into kernel
+- Update fingerprint from January Redfin
+- Switch to QTI health implementation
+- Disable WLAN firmware loggings

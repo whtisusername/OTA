@@ -1,6 +1,6 @@
 ** CipherOS 2.1 SHADE **
 - Android Security Patch :
- * 5th Januar 2022
+ * 5th January 2022
 
 -System:
 * Based on android-12.0.0_r26
@@ -17,4 +17,3 @@
 * Switched to GSans font
 * Safetynet should pass by default
 * Many more misc changes
-
